@@ -3,7 +3,7 @@ export default function App() {
       <div className="flex justify-center items-center min-h-screen bg-gray-900 text-white">
         <div className="text-center m-5">
           <h1 className="text-4xl font-bold">CliquéaloMX</h1>
-          <p className="text-lg mt-5">La nueva forma de comprar tu auto en construcción</p>
+          <p className="text-lg mt-5">La nueva forma de comprar tu auto está en construcción</p>
           <p className="text-lg mt-2">Consulta nuestro inventario</p>
 
           {/* Buttons */}
