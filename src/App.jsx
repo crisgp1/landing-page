@@ -8,7 +8,7 @@ export default function App() {
 
           {/* Buttons */}
           <div className="flex flex-col space-y-4 mt-8 m-5">
-            <a href="https://www.mercadolibre.com.mx/perfil/CLIQUEALO+MX" target="_blank" rel="noopener noreferrer" className="border border-2 border-amber-500 text-amber-500 hover:bg-amber-500 hover:text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out w-full md:w-auto">
+            <a href="https://vehiculos.mercadolibre.com.mx/_CustId_216420531" target="_blank" rel="noopener noreferrer" className="border border-2 border-amber-500 text-amber-500 hover:bg-amber-500 hover:text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out w-full md:w-auto">
               MercadoLibre
             </a>
             <a href="https://www.instagram.com/cliquealo/" target="_blank" rel="noopener noreferrer" className="border border-2 border-pink-500 text-pink-500 hover:bg-pink-500 hover:text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out w-full md:w-auto">
